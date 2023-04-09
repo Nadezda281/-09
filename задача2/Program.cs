@@ -1,5 +1,4 @@
-﻿
-Console.Write("Введите A: ");
+﻿Console.Write("Введите A: ");
 string text1 = Console.ReadLine();
 int number1 = Convert.ToInt32(text1);
 Console.Write("Введите B: ");
@@ -15,5 +14,4 @@ else
 {
     Console.WriteLine("A это min,B это max ");
 };
-
 
